@@ -28,7 +28,7 @@ if "retry_error" not in st.session_state:
 
 # Set up the page
 st.set_page_config(page_title="Sarcastic Vocab Wizard")
-st.sidebar.title("Welcome")
+st.sidebar.title("Sarcastic Vocab Wizard")
 #st.sidebar.divider()
 #st.sidebar.markdown("Your name", unsafe_allow_html=True)
 #st.sidebar.markdown("Assistant GPT")
